@@ -1,0 +1,26 @@
+
+html{
+    background-color: black;
+}
+
+h1{
+    color: white;
+    font-size: 50px;
+}
+
+p{
+    color: white;
+}
+
+div{
+    text-align: center;
+    width: 50%;
+    margin-left: 25%;
+    padding-top: 40px;
+    
+}
+
+.image {
+    border: 5px solid white;
+    width: 100%;
+}
