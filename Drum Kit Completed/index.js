@@ -16,7 +16,7 @@ for (var i = 0; i < numberOfDrumButtons; i++) {
 
 }
 
-//aggiungiamo un eventlistener to press the keyboard and put in the two functions: makeSound() and buttonAnimation()
+//add an eventlistener to press the keyboard and put in the two functions: makeSound() and buttonAnimation()
 document.addEventListener("keypress", function(event) {
 
   makeSound(event.key);
